@@ -20,7 +20,10 @@ manage_gemfile_lock() {
 }
 
 start_jekyll() {
-    manage_gemfile_lock
+    # manage_gemfile_lock
+    # Kein automatisches Löschen mehr – stattdessen einfach sicherstellen, dass bundle install korrekt läuft
+    # bundle config set deployment false
+    # bundle install
     bundle exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace --force_polling &
 }
 
