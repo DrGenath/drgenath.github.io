@@ -56,7 +56,7 @@ ninja.data = [{
           section: "News",},{id: "news-nominated-for-the-best-paper-at-the-wsc-2023",
           title: 'Nominated for the best paper at the WSC 2023. 🙌',
           description: "",
-          section: "News",},{id: "news-i-m-happy-to-say-that-i-ve-just-turned-in-my-phd-thesis-the-defense-of-the-dissertation-will-probably-take-place-at-the-end-of-september",
+          section: "News",},{id: "news-i-m-happy-to-say-that-i-ve-just-turned-in-my-phd-thesis-the-defense-of-the-dissertation-will-probably-take-place-at-the-beginning-of-november",
           title: 'I’m happy to say that I’ve just turned in my PhD thesis! 🎉🥸📝...',
           description: "",
           section: "News",},{id: "projects-project-1",
