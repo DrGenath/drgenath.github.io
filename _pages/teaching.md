@@ -13,11 +13,11 @@ nav_order: 6
 Teaching the university course in the summer semesters of 2021–2024.
 
 - **Data Science for Industrial Applications**
-Teaching the university course in the winter semesters of 2022–2024.
+Teaching the university course in the winter semesters of 2022–2025.
 
 - **Business Informatics – Introduction to Business Digitalization**  
-  Support in teaching the university course.
-Introduction of an autograder for programming training for engineers and development of programming tasks for exams and exercises.
+  Support in teaching the university course in the winter semesters of 2022–2025.
+  Introduction of an autograder for programming training for engineers and development of programming tasks for exams and exercises.
 
 - **Software project**  
   Supervision of the software project *“Further development of the feedback functions of the CodeOcean autograder”* in the summer semester 2023.
@@ -54,7 +54,7 @@ Bachelor's thesis, Ilmenau, 2024.
 ## Academic talks at the Technical University of Ilmenau
 
 - *“How autograding is changing teaching and testing – use of CodeOcean in programming education”*
-Faculty Day 2025 of the WM Faculty.
+  Faculty Day 2025 of the WM Faculty.
 
 - *“Autograding with CodeOcean in programming education – evolution or revolution?”*  
   Working group “IT-supported university management.”
