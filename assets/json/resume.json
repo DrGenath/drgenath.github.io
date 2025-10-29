@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Jonas Genath",
-    "label": "AI Developer, Data Scientist, and Data Visualization Expert",
+    "label": "Data Scientist, AI and ML Developer, and Data Visualization Expert",
     "image": "",
     "email": "genath.jonas@gmail.com",
     "url": "https://drgenath.github.io/",
-    "summary": "I combine simulation, AI, ML, and visual analysis to better understand complex systems and communicate results effectively.",
+    "summary": "I combine ML, AI, simulation,  and visual analysis to better understand complex systems and communicate results effectively.",
     "location": {
       "address": "Ehrenbergstraße 29",
       "postalCode": "98693",
@@ -24,12 +24,13 @@
   "work": [
     {
       "name": "Technical University of Ilmenau",
-      "position": "Research Assistant",
+      "position": "Scientific project manager",
       "url": "https://www.tu-ilmenau.de/en/universitaet/fakultaeten/fakultaet-wirtschaftswissenschaften-und-medien/profil/institute-und-fachgebiete/fachgebiet-informations-und-wissensmanagement/team/jonas-genath-m-sc",
       "startDate": "2022-01-01",
-      "endDate": "2025-09-30",
+      "endDate": "2025-12-31",
       "summary": "Group for Information and Knowledge Management (Werner Bischoff Building Room F1100).",
       "highlights": [
+        "Operational and strategic management of the project team for the digitalization of programming training by introducing an autograder into the university IT infrastructure",
         "Integration of generative AI into an autograder to improve feedback for students in programming education",
         "Digitization of programming education by introducing an autograder into the university IT infrastructure and developing unit and integration tests to check the programmed tasks",
         "Teaching responsibilities include teaching beginners how to program with Python"
@@ -40,13 +41,15 @@
       "position": "Research Assistant and PhD Candidate",
       "url": "https://www.tu-ilmenau.de/en/university/departments/department-of-mechanical-engineering/profile/institutes-and-groups/group-for-information-in-production-and-logistics/team/jonas-genath-m-sc",
       "startDate": "2020-01-01",
-      "endDate": "2025-09-30",
+      "endDate": "2025-12-31",
       "summary": "Group for Information Technology in Production and Logistics (Werner Bischoff Building Room F1100).",
       "highlights": [
-        "AI methods for simulation data analysis",
-        "Integration of simulation and machine learning into operational IT infrastructures",
+        "Application of machine learning, artificial intelligence and explainable artificial intelligence (XAI) for the automatic analysis of simulation data",
+        "Implementation of visualizations and machine learning methods for the extension of the modular SimAssist software",
+        "Development and implementation of end-to-end dashboards for analysis of multidimensional data",
         "Visual analytics for simulation data analysis",
         "Metalearning and XAI in the context of simulation",
+        "Modeling and simulation of logistics and material flow processes",
         "Teaching responsibilities in the field of simulation and data science"
       ]
     },
@@ -95,7 +98,7 @@
       "area": "Data Science, Machine Learning and Simulation",
       "studyType": "Doctor of Engineering (Dr.-Ing.)",
       "startDate": "2020-01-01",
-      "endDate": "2025-09-30",
+      "endDate": "2025-11-15",
       "score": "To be announced",
       "courses": [
         "Doctoral thesis: Automation within the process of knowledge discovery in simulation data"
@@ -156,7 +159,7 @@
     },
     {
       "name": "Leadership in Science",
-      "date": "2022-03-30",
+      "date": "2023-03-30",
       "issuer": "Technical University of Ilmenau",
       "url": "https://www.tu-ilmenau.de/",
       "icon": "fa-solid fa-clipboard-check"
@@ -170,7 +173,7 @@
       "keywords": [
         "In constant use for 5 years",
         "Particularly for data analysis and visualization (Pandas, Matplotlib, Seaborn, NumPy)",
-        "Training machine learning models (Scikit-learn, TensorFlow, Keras)",
+        "Training machine learning models (Scikit-learn, TensorFlow, Keras, XGBoost)",
         "Dashboard development (Plotly Dash, Streamlit)",
         "WebApp development (Django, Flask)"
       ]
@@ -194,6 +197,7 @@
         "JavaScript",
         "Ruby",
         "Java",
+        "R",
         "CSS (and HTML)"
       ]
     },
@@ -231,7 +235,7 @@
       "name": "SUNRISE",
       "summary": "EU-funded cooperation project. Dissemination of results on the application and development of an autograder in programming education at other universities within the Europe-wide project alliance",
       "startDate": "2024-10",
-      "endDate": "2025-09",
+      "endDate": "2025-12",
       "url": "https://sunrise-alliance.eu/"
     },
     {
@@ -244,7 +248,7 @@
         "Integration via the LMT interface"
       ],
       "startDate": "2022-01-01",
-      "endDate": "2025-09-30",
+      "endDate": "2025-12-30",
       "url": "https://www.tu-ilmenau.de/universitaet/quicklinks/zentralinstitut-fuer-bildung/ueber-uns/projekte/examing"
     },
     {
