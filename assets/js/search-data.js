@@ -59,7 +59,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-happy-to-say-that-i-ve-just-turned-in-my-phd-thesis-the-defense-of-the-dissertation-will-probably-take-place-at-the-beginning-of-november",
           title: 'I’m happy to say that I’ve just turned in my PhD thesis! 🎉🥸📝...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-dr-ing-successfully-completed",
+          title: 'Dr.-Ing. successfully completed!🎓',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/docorate_finished/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
