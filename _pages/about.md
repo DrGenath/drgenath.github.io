@@ -6,7 +6,7 @@ subtitle: Dr.-Ing., Consultant for Digitalization, Data Scientist,
 
 profile:
   align: right
-  image: Jonas Genath-4385-z.jpg
+  image: me2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>TU Ilmenau</p>
