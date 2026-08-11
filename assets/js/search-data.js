@@ -16,9 +16,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "Selected consulting, digitalization, automation, and research projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is my Curriculum Vitae. You can also download the PDF directly.",
+          description: "My current curriculum vitae. A German PDF version is available for download.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -59,54 +66,69 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-happy-to-say-that-i-ve-just-turned-in-my-phd-thesis-the-defense-of-the-dissertation-will-probably-take-place-at-the-beginning-of-november",
           title: 'I’m happy to say that I’ve just turned in my PhD thesis! 🎉🥸📝...',
           description: "",
-          section: "News",},{id: "news-dr-ing-successfully-completed",
-          title: 'Dr.-Ing. successfully completed!🎓',
+          section: "News",},{id: "news-teaching-digitalization-automation-ai-and-the-eu-ai-act",
+          title: 'Teaching digitalization, automation, AI, and the EU AI Act',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/lecturer_digitalization_ai/";
+            },},{id: "news-new-role-as-senior-consultant-at-metroplan",
+          title: 'New role as Senior Consultant at Metroplan',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/senior_consultant_at_metroplan/";
+            },},{id: "news-dr-ing-successfully-completed",
+          title: 'Dr.-Ing. successfully completed! 🎓',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/docorate_finished/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "news-digitalization-and-automation-projects-in-factory-planning",
+          title: 'Digitalization and automation projects in factory planning',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/current_consulting_projects/";
+            },},{id: "projects-digitalization-of-mechanical-production",
+          title: 'Digitalization of Mechanical Production',
+          description: "Target processes and an IT landscape for a digitalized and automated production environment.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-lights-out-factory-feasibility",
+          title: 'Lights-Out Factory Feasibility',
+          description: "Technical assessment and prioritization of automation potential along production processes.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-factory-master-planning",
+          title: 'Factory Master Planning',
+          description: "Area program and production layout for the economic assessment of a new factory site.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-administrative-process-automation",
+          title: 'Administrative Process Automation',
+          description: "Power Automate workflows that reduce recurring manual effort and media discontinuities.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-odoo-erp-introduction",
+          title: 'Odoo ERP Introduction',
+          description: "Configuration and customization of an ERP system around company-specific business processes.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-autograding-and-generative-ai",
+          title: 'Autograding and Generative AI',
+          description: "A university-wide autograder with automated tests and AI-supported student feedback.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-knowledge-discovery-in-simulation-data",
+          title: 'Knowledge Discovery in Simulation Data',
+          description: "Machine learning, explainable AI, and visual analytics for automated simulation-data analysis.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-digital-twins-with-opc-ua",
+          title: 'Digital Twins with OPC UA',
+          description: "Connected digital representations of production systems for analysis and transformation projects.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-ai-and-digitalization-training",
+          title: 'AI and Digitalization Training',
+          description: "Practical training for consultants, managers, professionals, and students.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
