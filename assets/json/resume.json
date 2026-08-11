@@ -1,65 +1,112 @@
 {
   "basics": {
     "name": "Jonas Genath",
-    "label": "Data Scientist, AI and ML Developer, and Data Visualization Expert",
+    "label": "Senior Consultant for Digitalization and Automation | Data Scientist",
     "image": "",
     "email": "genath.jonas@gmail.com",
-    "url": "https://drgenath.github.io/",
-    "summary": "I combine ML, AI, simulation,  and visual analysis to better understand complex systems and communicate results effectively.",
+    "url": "https://www.genath.website/",
+    "summary": "I combine process analysis, factory planning, automation, artificial intelligence, simulation, and visual analytics to turn complex operational challenges into practical digital solutions.",
     "location": {
-      "address": "Ehrenbergstraße 29",
-      "postalCode": "98693",
-      "city": "Ilmenau",
+      "address": "",
+      "postalCode": "",
+      "city": "Hamburg",
       "countryCode": "DE",
-      "region": "Thuringia"
+      "region": "Hamburg"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "jonas-genath-7830a335b",
+        "url": "https://www.linkedin.com/in/jonas-genath-7830a335b/"
+      },
+      {
+        "network": "GitHub",
+        "username": "DrGenath",
+        "url": "https://github.com/DrGenath"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Jonas Genath",
+        "url": "https://www.researchgate.net/profile/Jonas-Genath"
       }
     ]
   },
   "work": [
     {
-      "name": "Technical University of Ilmenau",
-      "position": "Scientific project manager",
-      "url": "https://www.tu-ilmenau.de/en/universitaet/fakultaeten/fakultaet-wirtschaftswissenschaften-und-medien/profil/institute-und-fachgebiete/fachgebiet-informations-und-wissensmanagement/team/jonas-genath-m-sc",
-      "startDate": "2022-01-01",
-      "endDate": "2025-12-31",
-      "summary": "Group for Information and Knowledge Management (Werner Bischoff Building Room F1100).",
+      "name": "Metroplan",
+      "position": "Senior Consultant – Digitalization and Automation in Factory Planning",
+      "url": "https://www.metroplan.de/",
+      "location": "Hamburg, Germany",
+      "startDate": "2025-09-01",
+      "endDate": "",
+      "summary": "Process analysis, factory planning, and the development and implementation of digital solutions.",
       "highlights": [
-        "Operational and strategic management of the project team for the digitalization of programming training by introducing an autograder into the university IT infrastructure",
-        "Integration of generative AI into an autograder to improve feedback for students in programming education",
-        "Digitization of programming education by introducing an autograder into the university IT infrastructure and developing unit and integration tests to check the programmed tasks",
-        "Teaching responsibilities include teaching beginners how to program with Python"
+        "Modeling and analysis of end-to-end processes using Gemba walks, SIPOC, and BPMN to identify weaknesses and digitalization and automation potential",
+        "Development of target processes, solution concepts, and functional requirements for future IT landscapes",
+        "Application of lean methods, including value-stream analysis and work-sampling studies, to reduce waste, inventory, transport, and lead times",
+        "Automation of administrative processes with Power Automate, saving several working hours per week",
+        "Agile project planning with Scrum and facilitation of customer workshops for specialists and management",
+        "Support for the introduction, configuration, and customization of the Odoo ERP system",
+        "Development and delivery of practical generative AI training for managers and consultants",
+        "Projects include a digitalization concept for mechanical production, a lights-out factory feasibility assessment, and master planning for a new factory site"
+      ]
+    },
+    {
+      "name": "Akademie für Beruf & Karriere (cooperation)",
+      "position": "Lecturer for Digitalization, Automation and AI",
+      "url": "",
+      "location": "Germany",
+      "startDate": "2025-09-01",
+      "endDate": "",
+      "summary": "Part-time professional education.",
+      "highlights": [
+        "Design and delivery of professional training on digitalization, automation, and artificial intelligence in day-to-day work",
+        "Teaching the foundations and practical requirements of the EU AI Act for the responsible use of AI"
       ]
     },
     {
       "name": "Technical University of Ilmenau",
-      "position": "Research Assistant and PhD Candidate",
-      "url": "https://www.tu-ilmenau.de/en/university/departments/department-of-mechanical-engineering/profile/institutes-and-groups/group-for-information-in-production-and-logistics/team/jonas-genath-m-sc",
-      "startDate": "2020-01-01",
-      "endDate": "2025-12-31",
-      "summary": "Group for Information Technology in Production and Logistics (Werner Bischoff Building Room F1100).",
+      "position": "Project Lead",
+      "url": "https://www.tu-ilmenau.de/en/universitaet/fakultaeten/fakultaet-wirtschaftswissenschaften-und-medien/profil/institute-und-fachgebiete/fachgebiet-informations-und-wissensmanagement/team/jonas-genath-m-sc",
+      "location": "Ilmenau, Germany",
+      "startDate": "2022-01-01",
+      "endDate": "2025-08-31",
+      "summary": "Group for Information and Knowledge Management.",
       "highlights": [
-        "Application of machine learning, artificial intelligence and explainable artificial intelligence (XAI) for the automatic analysis of simulation data",
-        "Implementation of visualizations and machine learning methods for the extension of the modular SimAssist software",
-        "Development and implementation of end-to-end dashboards for analysis of multidimensional data",
-        "Visual analytics for simulation data analysis",
-        "Metalearning and XAI in the context of simulation",
-        "Modeling and simulation of logistics and material flow processes",
-        "Teaching responsibilities in the field of simulation and data science"
+        "Operational and strategic management of a digitalization project that introduced an autograder into the university IT infrastructure, including budget planning and project communication",
+        "Agile planning and continued software development of the autograder system with Scrum",
+        "Creation of operating concepts and manuals to support the long-term use of project results",
+        "Integration of a generative AI agent to improve feedback for programming students",
+        "Development of testing processes and automated unit and integration tests",
+        "Presentation and dissemination of results within TU Ilmenau and at national and international universities"
+      ]
+    },
+    {
+      "name": "Technical University of Ilmenau",
+      "position": "Research Assistant",
+      "url": "https://www.tu-ilmenau.de/en/university/departments/department-of-mechanical-engineering/profile/institutes-and-groups/group-for-information-in-production-and-logistics/team/jonas-genath-m-sc",
+      "location": "Ilmenau, Germany",
+      "startDate": "2020-01-01",
+      "endDate": "2025-08-31",
+      "summary": "Group for Information Technology in Production and Logistics.",
+      "highlights": [
+        "Application of machine learning and explainable AI to automate the analysis of simulation data",
+        "Design and implementation of digital twins with OPC UA interfaces for production systems",
+        "Facilitation of workshops and tutorials on expressive data visualization and responsible AI",
+        "Consulting on logistics and material-flow simulation and the use of machine-learning algorithms",
+        "Development of end-to-end dashboards for multivariate data analysis",
+        "Implementation of visualization and machine-learning methods for the modular SimAssist software",
+        "Teaching in simulation, data science, and programming"
       ]
     },
     {
       "name": "Technical University of Ilmenau",
       "position": "Student assistant",
       "url": "https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-maschinenbau/profil/institute-und-fachgebiete/fachgebiet-informationstechnik-in-produktion-und-logistik",
+      "location": "Ilmenau, Germany",
       "startDate": "2018-10-01",
-      "endDate": "2019-03-31",
-      "summary": "Group for Information Technology in Production and Logistics (Werner Bischoff Building Room F1100).",
+      "endDate": "2019-12-31",
+      "summary": "Group for Information Technology in Production and Logistics.",
       "highlights": [
         "Teaching in the digital factory laboratory",
         "Support in the creation of simulation models"
@@ -69,6 +116,7 @@
       "name": "REWE digital Ilmenau",
       "position": "Working Student",
       "url": "https://www.rewe-digital.com/de",
+      "location": "Ilmenau, Germany",
       "startDate": "2018-03-01",
       "endDate": "2018-09-30",
       "summary": "E-Commerce Department",
@@ -81,6 +129,7 @@
       "name": "Robert Bosch Eisenach Fahrzeugelektrik GmbH",
       "position": "Internship as a production planner",
       "url": "https://www.bosch.com/",
+      "location": "Eisenach, Germany",
       "startDate": "2015-09-01",
       "endDate": "2016-03-31",
       "summary": "Sensor Production Department",
@@ -95,13 +144,13 @@
       "institution": "Technical University of Ilmenau",
       "location": "Ilmenau, Germany",
       "url": "https://www.tu-ilmenau.de/",
-      "area": "Data Science, Machine Learning and Simulation",
+      "area": "Process Automation, Data Science, Machine Learning and Simulation",
       "studyType": "Doctor of Engineering (Dr.-Ing.)",
       "startDate": "2020-01-01",
-      "endDate": "2025-11-15",
-      "score": "To be announced",
+      "endDate": "2025-12-15",
+      "score": "Magna cum laude",
       "courses": [
-        "Doctoral thesis: Automation within the process of knowledge discovery in simulation data"
+        "Dissertation: Automation within the Process of Knowledge Discovery in Simulation Data"
       ]
     },
     {
@@ -167,15 +216,28 @@
   ],
   "skills": [
     {
+      "name": "Process analysis and automation",
+      "level": "Expert",
+      "icon": "fa-solid fa-diagram-project",
+      "keywords": [
+        "End-to-end process analysis with Gemba walks, SIPOC, and BPMN",
+        "Target-process and solution design",
+        "Lean methods, value-stream analysis, and work-sampling studies",
+        "Process automation with Microsoft Power Automate",
+        "Agile project management with Scrum",
+        "Customer workshops and stakeholder communication"
+      ]
+    },
+    {
       "name": "Python",
       "level": "Expert",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "In constant use for 5 years",
+        "More than six years of regular use",
         "Particularly for data analysis and visualization (Pandas, Matplotlib, Seaborn, NumPy)",
         "Training machine learning models (Scikit-learn, TensorFlow, Keras, XGBoost)",
         "Dashboard development (Plotly Dash, Streamlit)",
-        "WebApp development (Django, Flask)"
+        "Process automation and web application development"
       ]
     },
     {
@@ -183,7 +245,7 @@
       "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "In regular use for data management for 5 years.",
+        "More than five years of experience with SQL-based data management",
         "SQLAlchemy for database interaction in Python",
         "SQLite for local database management",
         "PostgreSQL for server-based database management"
@@ -202,12 +264,16 @@
       ]
     },
     {
-      "name": "Other Tools",
+      "name": "Business intelligence, ERP, and engineering tools",
       "level": "Intermediate",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-screwdriver-wrench",
       "keywords": [
-        "Docker",
-        "Git(Hub/Lab)"
+        "Power BI, A/B testing, and association analysis",
+        "Microsoft Visio for process visualization with swimlanes",
+        "Odoo ERP configuration and customization",
+        "Foundational knowledge of SAP system landscapes and transaction interfaces",
+        "Foundational knowledge of Revit for layout and factory modeling",
+        "Docker and GitHub/GitLab"
       ]
     },
     {
@@ -217,7 +283,7 @@
       "keywords": [
         "Excel",
         "Word",
-        "PowerPoint"
+        "PowerPoint with Efficient Elements and think-cell"
       ]
     },
     {
@@ -226,7 +292,8 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "AnyLogic",
-        "Plant Simulation"
+        "Siemens Plant Simulation",
+        "VisTable"
       ]
     }
   ],
@@ -235,7 +302,7 @@
       "name": "SUNRISE",
       "summary": "EU-funded cooperation project. Dissemination of results on the application and development of an autograder in programming education at other universities within the Europe-wide project alliance",
       "startDate": "2024-10",
-      "endDate": "2025-12",
+      "endDate": "2025-08",
       "url": "https://sunrise-alliance.eu/"
     },
     {
@@ -248,7 +315,7 @@
         "Integration via the LMT interface"
       ],
       "startDate": "2022-01-01",
-      "endDate": "2025-12-30",
+      "endDate": "2025-08-31",
       "url": "https://www.tu-ilmenau.de/universitaet/quicklinks/zentralinstitut-fuer-bildung/ueber-uns/projekte/examing"
     },
     {
@@ -316,21 +383,14 @@
       ]
     },
     {
-      "name": "Sports",
-      "icon": "fa-solid fa-futbol",
+      "name": "Personal interests",
+      "icon": "fa-solid fa-person-running",
       "keywords": [
         "Handball",
         "Fitness",
-        "Hiking"
-      ]
-    },
-    {
-      "name": "Music",
-      "icon": "fa-solid fa-music",
-      "keywords": [
-        "Hardstyle",
-        "Trance",
-        "Power-Metal"
+        "Chess",
+        "Reading",
+        "Current developments in information technology"
       ]
     }
   ],

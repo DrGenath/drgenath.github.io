@@ -2,15 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: Dr.-Ing., Consultant for Digitalization, Data Scientist, 
+subtitle: Dr.-Ing. · Senior Consultant for Digitalization and Automation · Data Scientist
 
 profile:
   align: right
   image: me2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>TU Ilmenau</p>
-    <p>Group for Information Technology in Production and Logistics</p>
+    <p>Metroplan</p>
+    <p>Factory Planning</p>
+    <p>Hamburg, Germany</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -18,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 6 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -26,17 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Jonas Genath and I obtained my master's degree in industrial engineering from the Technical University of Ilmenau in 2019. Since the beginning of 2020, I have been working as a research assistant in two departments: “Information Technology in Production and Logistics” led by Prof. Steffen Straßburger and “Information and Knowledge Management” led by Prof. Dirk Stelzer at the Technical University of Ilmenau. **In December 2025, I successfully completed my doctorate in engineering (Dr.-Ing.).** 
+My name is Jonas Genath. I am a Senior Consultant for digitalization and automation in factory planning at Metroplan in Hamburg. I analyze and model end-to-end processes, identify weaknesses and automation potential, and translate these findings into target processes, solution concepts, and requirements for future IT landscapes.
 
-I am passionate about consulting organizations in automation and digitalization projects, with a strong focus on data-driven decision-making.
-My academic and applied work centers on data science, artificial intelligence, digitalization and automation, particularly in the context of large-scale (simulation) data. A key objective of my work has been the automated analysis of complex data sets, the identification of relevant patterns, and the transparent communication of results to diverse stakeholders.
+My consulting work combines process analysis with practical implementation. I use methods such as Gemba walks, SIPOC, BPMN, value-stream analysis, and Scrum; facilitate workshops with specialists and management; and support digital solutions ranging from Power Automate workflows to ERP implementation. Recent assignments have included designing the processes and system landscape for a digitalized mechanical production environment, assessing the feasibility of a lights-out factory, and developing a factory master plan for a new site.
 
-Here are a few highlights from my data science journey.
-In December 2021, I presented my concept for automating knowledge discovery in simulation data at the Winter Simulation Conference. The aim was to enable less experienced users to use these methods – from experiment design and meta-learning to rule-based visualizations. 
-Another project, published in the journal Simulation Notes Europe in 2022, presented an integrated software solution called “4farm”, which we developed in cooperation with SimPlan AG. This solution supports users in evaluating and conducting (in the cloud) large-scale simulation studies and visualizing the results.
-Most recently, in December 2023, I published the conference paper “How Not to Visualize Your Simulation Output Data”. In it, we highlight common mistakes in the presentation of large simulation data sets and provide clear recommendations for better visualizations fore the community. I have also successfully completed projects such as the further development of an autograder and the integration of generative AI to digitize programming training.
+Before joining Metroplan, I worked at the Technical University of Ilmenau from 2020 to 2025 as a research assistant and, from 2022, as a project lead. In December 2025, I completed my doctorate in engineering (Dr.-Ing.) with *magna cum laude*. My dissertation, “Automation within the Process of Knowledge Discovery in Simulation Data,” explored how machine learning, explainable AI, and visual analytics can make complex simulation data more accessible and actionable.
 
-Alongside my academic work, I have been actively involved in the Simulation Working Group (ASIM) of the German Informatics Society and regularly supervised student projects and theses in the areas of simulation, AI, machine learning, and visual analytics.
+My academic and applied projects ranged from digital twins with OPC UA interfaces and cloud-based simulation studies to dashboards for multivariate data. As a project lead, I also managed the introduction and continued development of an autograder for programming education, including the integration of a generative AI agent for improved student feedback.
 
-Today, I apply this combined expertise as a consultant, helping companies design, implement, and scale automation and digitalization solutions in the context of factory planning. In short, I bridge simulation, AI, machine learning, and digitalization to better understand complex systems, optimize processes, and communicate insights effectively for real-world decision-making.
+Selected research outcomes include my knowledge-discovery approach presented at the 2021 Winter Simulation Conference, the integrated “4farm” solution published in *Simulation Notes Europe* in 2022, and the paper “How Not to Visualize Your Simulation Output Data,” nominated for the best paper award at the 2023 Winter Simulation Conference.
 
+Alongside consulting, I teach courses on digitalization, automation, artificial intelligence, and the practical implications of the EU AI Act. Across these roles, my focus remains the same: understanding complex processes, developing solutions collaboratively, and communicating technical insights clearly enough to support sound decisions.
