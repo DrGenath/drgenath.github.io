@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Dr.-Ing. · Senior Consultant for Digitalization and Automation · Data Scientist
+subtitle: Dr.-Ing. · Consultant for Digitalization and Automation · AI Specialist
 
 profile:
   align: right
@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Jonas Genath. I am a Senior Consultant for digitalization and automation in factory planning at Metroplan in Hamburg. I analyze and model end-to-end processes, identify weaknesses and automation potential, and translate these findings into target processes, solution concepts, and requirements for future IT landscapes.
+My name is Jonas Genath. I am a Consultant for digitalization and automation in factory planning at Metroplan in Hamburg. I analyze and model end-to-end processes, identify weaknesses and automation potential, and translate these findings into target processes, solution concepts, and requirements for future IT landscapes.
 
-My consulting work combines process analysis with practical implementation. I use methods such as Gemba walks, SIPOC, BPMN, value-stream analysis, and Scrum; facilitate workshops with specialists and management; and support digital solutions ranging from Power Automate workflows to ERP implementation. Recent assignments have included designing the processes and system landscape for a digitalized mechanical production environment, assessing the feasibility of a lights-out factory, and developing a factory master plan for a new site.
+My consulting work combines process analysis with practical implementation. I use methods such as Gemba walks, BPMN, value-stream analysis; facilitate workshops with specialists and management; and support digital solutions ranging from workflows to AI agent implementation. Recent assignments have included designing the processes and system landscape for a digitalized mechanical production environment, assessing the feasibility of a lights-out factory, and developing a factory master plan for a new site.
 
 Before joining Metroplan, I worked at the Technical University of Ilmenau from 2020 to 2025 as a research assistant and, from 2022, as a project lead. In December 2025, I completed my doctorate in engineering (Dr.-Ing.) with *magna cum laude*. My dissertation, “Automation within the Process of Knowledge Discovery in Simulation Data,” explored how machine learning, explainable AI, and visual analytics can make complex simulation data more accessible and actionable.
 
